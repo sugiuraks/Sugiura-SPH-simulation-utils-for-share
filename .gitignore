@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# large initial condition files
+*.bin
+
+FDPS-basalt-sphere-collision-init.txt
+test.txt
